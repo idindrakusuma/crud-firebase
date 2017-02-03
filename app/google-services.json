@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725568678206",
+    "firebase_url": "https://gojekclone-6a07d.firebaseio.com",
+    "project_id": "gojekclone-6a07d",
+    "storage_bucket": "gojekclone-6a07d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725568678206:android:6034ddccbec6e62e",
+        "android_client_info": {
+          "package_name": "com.nbs.apps.gojekclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725568678206-mopr6scsheq8qqhcbtlefql25clufdvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfgoJSlo3o9Af6T8QftDVjBqe0WHqyY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725568678206-mopr6scsheq8qqhcbtlefql25clufdvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
